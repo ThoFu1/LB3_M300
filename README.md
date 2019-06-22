@@ -22,13 +22,14 @@ Docker-Container, die mit Docker Engine ausgeführt werden:
 - **Secure**: Applikation sind sicherer in Containers und Docker stellt die stärksten Standardisolationsfunktionen in der Branche dar. 
 
 ## Microservices
-![Microservices](\images\Screenshot_1.jpg)
+![Microservices](images/Screenshot_1.jpg)
 
 Unter Microservices versteht man Dienste, die jeweils eine kleine Aufgabe erfüllen. Die Prozesse lassen sich wie Module so miteinander verbinden, dass sich daraus eine beliebig komplexe Software ergibt. 
 
 Microservices ermöglichen es, komplexe Anwendungen mit Hilfe einer Architektur bestehend aus vielen kleinen voneinander entkoppelten Diensten und Prozessen zu realisieren. Die Microservices kommunizieren über Schnittstellen und stellen der Applikation jeweils einzelne Funktionen und Dienste zur Verfügung. Selbst komplexe Anwendungssoftware kann auf Basis von Microservices modular entwickelt und umgesetzt werden.
 
-
 ## Sicherheitsaspekte
+
+
 
 ## Reflexion
