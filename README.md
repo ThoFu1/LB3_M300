@@ -22,7 +22,7 @@ Docker-Container, die mit Docker Engine ausgeführt werden:
 - **Secure**: Applikation sind sicherer in Containers und Docker stellt die stärksten Standardisolationsfunktionen in der Branche dar. 
 
 ## Microservices
-![ScrMicroserviceseenshot](C:\Users\Tom\Desktop\Screenshot_1.jpg)
+![Microservices](Screenshot_1.jpg)
 
 ## Sicherheitsaspekte
 
