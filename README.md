@@ -11,7 +11,7 @@
 ## Container
 Ein Container ist eine Standard-Softwareeinheit, die Code und alle Abhängigkeiten zusammenfasst, sodass die Anwendung schnell und zuverlässig von einer Computerumgebung zur anderen ausgeführt werden kann. Ein Docker-Container-Image ist ein kompaktes, eigenständiges, ausführbares Softwarepaket, das alles enthält, was zum Ausführen einer Anwendung erforderlich ist: Code, Laufzeit, Systemtools, Systembibliotheken und Einstellungen.
 
-
+---
 ## Docker
 Docker handelt es sich um eine Open-Source-Software, mit der sich Anwendungen ähnlich wie bei einer Betriebssystemvirtualisierung in Containern isolieren lassen.
 
