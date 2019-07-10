@@ -304,3 +304,4 @@ Das Testing wir mit einem Testing Protokoll durchgeführt. Dabei wird er SOLL / 
 |Die Portverlinkung von Wordpress von Port 80 auf 8081 ist gewährleistet|Mit http://localhost:8081 kann auf Wordpress zugegriffen werden|Im Browser die Adresse http://localhost:8081 öffnen|
 
 ## Reflexion
+Docker ist nicht so ein einfaches Tool und es braucht seine Zeit bis um es zu verstehen. Ich jedenfalls brauchte sehr lange und auch bis jetzt verstehe ich es nicht so richtig. Trotzdem hat es mir sehr viel spass gemacht damit herumzuspielen und zu testen. Es gab natürlich _Ups and Downs_, aber schlussendlich hab ich ein wenig mehr dazu gelernt.
