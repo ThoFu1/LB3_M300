@@ -6,6 +6,12 @@
   - [Docker](#Docker)
   - [Microservices](#Microservices)
   - [Sicherheitsaspekte](#Sicherheitsaspekte)
+  - [Anleitung für den Betrieb](#Anleitung-f%C3%BCr-den-Betrieb)
+    - [1. Installation](#1-Installation)
+    - [2. Zugriff auf MySQL Webinterface](#2-Zugriff-auf-MySQL-Webinterface)
+    - [3. PHPMyAdmin Login](#3-PHPMyAdmin-Login)
+    - [4. Los arbeiten mit PHPMyAmdin](#4-Los-arbeiten-mit-PHPMyAmdin)
+    - [5. Zugriff auf Wordpress](#5-Zugriff-auf-Wordpress)
   - [Reflexion](#Reflexion)
   
 ## Container
@@ -28,6 +34,33 @@ Microservices ermöglichen es, komplexe Anwendungen mit Hilfe einer Architektur 
 
 ## Sicherheitsaspekte
 
+
+## Anleitung für den Betrieb
+### 1. Installation
+Wie oben beim Code erklärt wird per Befehel das Docker-Compose.yml ausgeführt und somit die Container aufgesetzt:
+
+'''docker-compose -f ʺPfad\zum\File\docker-compose.ymlʺ up -d --build'''
+
+### 2. Zugriff auf MySQL Webinterface
+- Um auf PHPMyAdmin zuzugreifen, muss ein Browser geöffnet werden.
+- Es wird die URL http://localhost:8080 eigegeben
+
+### 3. PHPMyAdmin Login
+Als Benutzer wird User genommen
+
+Das Passwort ist 1234
+
+Die Anmeldung erflogt beim drücken der Enter-taste
+
+### 4. Los arbeiten mit PHPMyAmdin
+AB jetzt kann mit PHPMyAdmin gearbeitet werden. Es können Datenbanken erstellt und administriert werden.
+Wenn benötigt können neue Benutzer im Phpmyadmin angelegt werden.
+
+### 5. Zugriff auf Wordpress
+- Um auf Wordpress zuzugreifen, muss ein Browser geöffnet werden.
+- Es wird die URL http://localhost:8081 eigegeben
+- 
+Jetzt kann die Sprache ausgewählt werden. Anschliessend wird die erste Seite erstellt.
 
 
 ## Reflexion
